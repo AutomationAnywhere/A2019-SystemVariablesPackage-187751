@@ -1,0 +1,4 @@
+{
+	"label": "System Variables Package",
+	"description": "Provides additional system variables related to the bot runner machine which can allow for more dynamic bot builds"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "SystemVariablesPackage",
+  "label": "[[label]]",
+  "description": "[[description]]",
+  "group": "",
+  "artifactName": "",
+  "packageVersion": "",
+  "codeVersion": "",
+  "commands": []
+}
